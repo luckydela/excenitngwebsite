@@ -1,0 +1,20 @@
+h1{
+    color:#fff;
+    margin: 20% 30% 30% 30%;
+}
+
+
+.board-image{
+    background-image: url("/assets/images/aboutus1.png");
+    background-position: center center;
+    background-size: cover;
+    height:30em;
+    margin-top:-10em;
+    filter: brightness(20%);
+    -webkit-filter: brightness(20%);
+    -moz-filter: brightness(50%);
+    -o-filter: brightness(50%);
+    -ms-filter: brightness(50%);
+    color:#fff;
+
+}

@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5f28275a-cfac-4f30-ac2d-6f5da34c53f3/resourceGroups/ofbiz_group/providers/Microsoft.Web/sites/excenitsitetest",
+    "appService.deploySubpath": "."
+}
