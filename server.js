@@ -37,4 +37,4 @@ res.sendFile(path.join(__dirname,'/dist/excenit/index.html'));
 // Start the app by listening on the default Heroku port
 
 //app.listen(process.env.PORT || 3000);
-const port = process.env.port || 8080;
+const port = process.env.port || 3000;
